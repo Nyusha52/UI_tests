@@ -7,8 +7,8 @@
 ## Установка
 ***
 1. Создайте отдельную директорию на локальном компьютере
-2. Скачайте все файлы которые расположены в [директории](https://github.com/berpress/ui_dress_tests) <br>
-   git clone https://github.com/berpress/ui_dress_tests
+2. Скачайте все файлы которые расположены в [директории](https://github.com/Nyusha52/UI_tests) <br>
+   git clone https://github.com/Nyusha52/UI_tests
 3. Откройте проект
 4. Установите все пакеты, которые указаны в файле requirements.txt <br>
 pip install -r /path/to/requirements.txt
